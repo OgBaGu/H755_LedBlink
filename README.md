@@ -1,6 +1,6 @@
 # H755_LedBlink NUCLEO-H755ZI-Q LED Blink Example
 This project demonstrates how to blink an LED using the NUCLEO-H755ZI-Q microcontroller.
-The LEDs are toggled when the user button (blue) is pressed.
+The LEDs are toggled when the user button (blue) is pressed. Additionally, a welcome message is sent to the ST-Link Virtual COM Port.
 
 ## Prerequisites
 
